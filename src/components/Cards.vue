@@ -2,7 +2,7 @@
   <div class="q-pa-md">
       <div class="row q-gutter-md items-center justify-around" >
     <q-card class="my-card">
-      <img src="..\statics\img1-maos.png">
+      <img src="https://res.cloudinary.com/dxblalpv2/image/upload/v1586205634/img1-maos_xwg3ez.png">
 
       <q-card-section>
         <div class="text-h6">Lave as mãos com água e sabão ou use álcool em gel.</div>
@@ -10,7 +10,7 @@
 
     </q-card>
     <q-card class="my-card">
-      <img src="..\statics\img2-tosse.png">
+      <img src="https://res.cloudinary.com/dxblalpv2/image/upload/v1586205634/img2-tosse_ezpjmt.png">
 
       <q-card-section>
         <div class="text-h6">Cubra o nariz e boca ao espirrar ou tossir.</div>
@@ -18,7 +18,7 @@
 
     </q-card>
     <q-card class="my-card">
-      <img src="..\statics\img3-pessoas.png">
+      <img src="https://res.cloudinary.com/dxblalpv2/image/upload/v1586205634/img3-pessoas_ln3bd1.png">
 
       <q-card-section>
         <div class="text-h6">Evite aglomerações se estiver doente.</div>
@@ -26,7 +26,7 @@
 
     </q-card>
     <q-card class="my-card">
-      <img src="..\statics\img4-janela.png">
+      <img src="https://res.cloudinary.com/dxblalpv2/image/upload/v1586205634/img4-janela_ytarzt.png">
 
       <q-card-section>
         <div class="text-h6">Mantenha os ambientes bem ventilados.</div>
@@ -34,7 +34,7 @@
 
     </q-card>
     <q-card class="my-card">
-      <img src="..\statics\img5-objetos.png">
+      <img src="https://res.cloudinary.com/dxblalpv2/image/upload/v1586205634/img5-objetos_btb06b.png">
 
       <q-card-section>
         <div class="text-h6">Não compartilhe objetos pessoais.</div>

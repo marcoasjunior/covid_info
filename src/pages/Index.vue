@@ -72,7 +72,7 @@ export default {
 
   methods: {
     loadData () {
-      this.$axios.get('https://corona.lmao.ninja/countries?sort=country')
+      this.$axios.get('https://corona.lmao.ninja/v2/countries?sort=country')
         .then((response) => {
           this.data = response.data
         })
